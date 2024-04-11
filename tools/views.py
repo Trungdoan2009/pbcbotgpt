@@ -10,7 +10,7 @@ import requests
 #Asssign your API key below
 #Get it from here:
 #https://platform.openai.com/api-keys
-apiKey = "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"
+apiKey = "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"
 
 
 def chat(request):
